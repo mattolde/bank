@@ -1,0 +1,4 @@
+Customer 1
+I have 1 dollar
+
+End file

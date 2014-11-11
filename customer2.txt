@@ -1,0 +1,5 @@
+Customer 2
+
+I have 2 dollars
+
+End file
